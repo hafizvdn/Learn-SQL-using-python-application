@@ -5,7 +5,7 @@
 
 A beginner-friendly desktop application built with Python. This tool is designed to help users learn and practice foundational SQL queries in a simple, self-contained environment.
 
-<img width="991" height="716" alt="image" src="https://github.com/user-attachments/assets/b915d2a7-8ad0-4f60-a1c2-6f11f51dc609" />(https://i.imgur.com/8m4nJt3.png)
+<img width="991" height="716" alt="image" src="https://github.com/user-attachments/assets/b915d2a7-8ad0-4f60-a1c2-6f11f51dc609" />
 
 ## 🎯 Purpose
 
@@ -89,6 +89,6 @@ Contributions are welcome! If you have ideas for new features (like syntax highl
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📄 License
 
-This project is distributed under the MIT License. See `LICENSE.txt` for more information.
+
+🎓 Student | Python Learner
